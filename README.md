@@ -1,6 +1,8 @@
 # armed-docs
 Repository for the armed vs code extension
 
+<img src="https://github.com/GoEddie/armed-docs/blob/master/ARMED.gif?raw=true" />
+
 # WHAT IS ARMED?
 
 Armed is an extension for vs code that helps write AZURE ARM templates.
