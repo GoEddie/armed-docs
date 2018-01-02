@@ -33,3 +33,6 @@ then try again and the parameters will be picked up.
 
 Raise an issue here if you get stuck and ill help you :)
 
+## CHANGELOG
+
+0.0.17 - delay getting window size so graph is not cropped + debugging info
